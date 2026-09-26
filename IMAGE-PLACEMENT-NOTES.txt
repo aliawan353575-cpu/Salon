@@ -1,0 +1,43 @@
+MARIA'S BEAUTY SALON I-8 — IMAGE PLACEMENT NOTES
+==================================================
+
+All images now in use are your real uploaded photos, kept under their
+original filenames (no renaming, per your instruction):
+
+  images/1000000827.jpg  -> Hero (best interior shot — styling area,
+                             mirrors, greenery, no faces, most premium
+                             composition of the set)
+
+  images/1000000825.jpg  -> Featured Experience section (clear hair
+                             styling result on a client)
+
+  images/1000000828.jpg  -> Gallery (French manicure, in progress,
+                             technician's gloved hand)
+  images/1000000824.jpg  -> Gallery (same French manicure, finished
+                             result — a genuinely different moment,
+                             not a duplicate)
+  images/1000000822.jpg  -> Gallery (gold-tip manicure — a visually
+                             distinct nail style from the other two)
+
+  images/1000000821.jpg  -> Location section (storefront signage,
+                             confirms the "Maria's Beauty Salon" name
+                             and address)
+
+Experience/About section: left as text-only. None of the remaining
+photos added anything the Hero and Featured sections didn't already
+cover, and forcing one in would have meant repeating an image or
+using a weaker shot just to fill space.
+
+Two uploaded photos were deliberately NOT used:
+- 1000000823.jpg — this is a video cover frame (has a play-button icon
+  and black letterbox bars burned into the image itself), not a clean
+  photo. Placing it in a static image slot would show a play button
+  that doesn't do anything, which reads as broken.
+- 1000000826.jpg — a dim, blurry mirror selfie. It's a real photo, but
+  the image quality falls below the rest of the set and would have
+  undercut the premium look everywhere else.
+
+Note: three of your photos (1000000828, 1000000824, 1000000821) carry
+your own "MARIA'S BEAUTY SALON" watermark/logo baked in from being
+exported for social media. That's left untouched since it's part of
+the real photo, not something added by the build.
